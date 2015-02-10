@@ -1,4 +1,4 @@
-Nexus 5 <= 4.4.2 LOCAL DOS POC
+Nexus 5 <= 4.4.2 Local DOS POC
 ==============================
 
 This is the full project for a local DOS I had found for the N5 <= 4.4.2. : https://twitter.com/Fuzion24/status/495392525369479168
